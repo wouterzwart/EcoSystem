@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string>
-#include <gameboard.h>
+#include "gameboard.h"
 using namespace std;
 
 Gameboard::Gameboard(){
